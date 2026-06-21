@@ -1,0 +1,34 @@
+a. What are the names of the functions defined in this file?
+
+The two functions are create player and adventure.
+
+b. On what line is the adventure() function called?
+
+It is called in line 72
+
+c. On what line is the create_player() function called?
+
+IT IS CALLED IN LINE 20
+
+d. Which function is called first when the script is run?
+
+Create player function is called first.
+
+e. What does the input() function do (used in lines 64 and 65)?
+
+It gets user input.
+
+f. Looking at the if block starting on line 24, what is printed if the user inputs neither
+“Warrior” nor “Mage” as their specialty?
+
+It prints : "A unique specialty I do not recognize! Intriguing..."
+
+g. What do you think is the purpose of the curly braces “{}”in the print statements on
+lines 40 and 41?
+
+It's were the health and mana values will be printed 
+
+h. As written, the script runs in an infinite loop. What line in the adventure() function
+could you change to prevent this?
+
+instead of return o(zero) yiour could change it to return 1
